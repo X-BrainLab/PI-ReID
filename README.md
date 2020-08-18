@@ -1,6 +1,6 @@
 # PI-ReID (ECCV 2020)
 
-Official code for ECCV 2020 paper [Do Not Disturb Me: Person Re-identification Under the Interference of Other Pedestrians](https://arxiv.org).
+Official code for ECCV 2020 paper [Do Not Disturb Me: Person Re-identification Under the Interference of Other Pedestrians](https://arxiv.org/abs/2008.06963).
 
 If you find this code useful in your research, please consider citing:
 ```
