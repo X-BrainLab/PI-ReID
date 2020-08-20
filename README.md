@@ -12,6 +12,16 @@ If you find this code useful in your research, please consider citing:
 }
 ```
 
+<h2 id="jump">Resouces</h2>
+
+1. Pretrained Models:
+
+   [Baidu NetDisk](https://pan.baidu.com/s/1O08TssJcASsTh8veIBimzA), Password: 6x4x. The Models are trained using the gt boxes from [CUHK-SYSU](https://github.com/ShuangLI59/person_search) and [PRW](https://github.com/liangzheng06/PRW-baseline), respectively.
+   
+2. Datasets (PI-PRW and PI-CUHK-SYSU)：
+   [Baidu NetDisk](https://pan.baidu.com/s/1JMPJ0y6oephiEDgC69AxiA ), Password: alkj. 
+   
+
 ## Contact
 
 Shizhen Zhao: zhaosz@hust.edu.cn
