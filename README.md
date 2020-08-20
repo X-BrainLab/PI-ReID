@@ -18,7 +18,7 @@ If you find this code useful in your research, please consider citing:
 
    [Baidu NetDisk](https://pan.baidu.com/s/1O08TssJcASsTh8veIBimzA), Password: 6x4x. The Models are trained using the gt boxes from [CUHK-SYSU](https://github.com/ShuangLI59/person_search) and [PRW](https://github.com/liangzheng06/PRW-baseline), respectively.
    
-2. Datasets (PI-PRW and PI-CUHK-SYSU)：
+2. Datasets：
    
    Request the datasets from zhaosz@hust.edu.cn (academic only).
    Due to licensing issues, please send us your request using your university email.
