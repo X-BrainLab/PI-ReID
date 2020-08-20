@@ -20,10 +20,10 @@ If you find this code useful in your research, please consider citing:
    
 2. Datasets：
    
-   Request the datasets from zhaosz@hust.edu.cn (academic only).
-   Due to licensing issues, please send us your request using your university email.
+   Request the datasets from xbrainzsz@gmail.com (academic only).
+   Due to licensing issues, please send me your request using your university email.
    
 
 ## Contact
 
-Shizhen Zhao: zhaosz@hust.edu.cn
+Shizhen Zhao: xbrainzsz@gmail.com
